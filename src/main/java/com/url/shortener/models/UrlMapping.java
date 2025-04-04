@@ -9,7 +9,7 @@ import java.time.LocalDateTime;
 @Entity
 @Data
 
-public class urlMapping {
+public class UrlMapping {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
 
